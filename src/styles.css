@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+ul{
+    list-style: none;
+}
+i{
+    size: 20px;
+}
+.form{
+display: inline block;
+text-align: center;
+}
+.cities{
+    position: fixed;
+    top: 210px;
+    left: 350px;
+    text-transform: uppercase;
+    line-height: 45px;
+}
+.active-city{
+    position: fixed;
+    top: 215px;
+    left: 530px;
+}
+.weather-details{
+    position: fixed;
+    top: 260px;
+    left: 570px;
+    line-height: 20px;
+}
+.weather-icon{
+    position: fixed;
+    top: 290px;
+    left: 530px;
+    font-size: 40px;
+}
+.weather-display{
+    position: fixed;
+    top: 330px;
+    left: 530px;
+}
